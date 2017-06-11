@@ -12,10 +12,11 @@
     <link href="assets/css/main.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/animate-custom.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
     <script src="assets/js/jquery.min.js"></script>
     <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    <script type="text/javascript" src="assets/js/local.js"></script>
     <meta name="google-site-verification" content="X_2O7VMc_h4sdaiyWYXL9AqkE2xtELN6OkO-nLW7Ie8" />
     </head>
 
@@ -44,7 +45,7 @@
         <h2>Things - Things - Things - More Things
         <p>Paragraph text or whatever formatting</p>
         <div class="centered">
-          <a href="#mixes" class="smoothScroll btn btn-lg">Listen</a> 
+          <a href="#interest" class="smoothScroll btn btn-lg">Buy Now!</a> 
         </div>
         <div class="container">
           <div class="centered">
@@ -92,6 +93,7 @@
                     method="POST">
                     <div style="display:inline-grid;width: 75%;">
                       <input type="email" name="_replyto" placeholder="email@address.com"></input>
+                      <input id="subjectLine" type="hidden" name="_subject"></input>
                       <textarea style="height:100px" type="text" name="name" placeholder="Your thoughts here!"></textarea>
                       <!-- <div> -->
                         <input type="submit" value="Send">Submit</input>
