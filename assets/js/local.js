@@ -1,4 +1,4 @@
-$.get("http://ipinfo.io", function(response) {
+$.get("https://ipinfo.io", function(response) {
 	var subject = "Interest from - ";
     var location = "/ City: " + response.city;
     location += "/ Region: " + response.region;
