@@ -6,7 +6,14 @@
 	font-family: zekton;
 	src: url(../fonts/zekton.ttf);
 }
-
+@font-face {
+	font-family: dolce;
+	src: url(../fonts/DolceVita.ttf);
+}
+@font-face {
+	font-family: timeburnerbold;
+	src: url(../fonts/timeburnerbold.ttf);
+}
 html, button, input, select, textarea {
 	color: #222;
 }
@@ -240,16 +247,16 @@ a:before, a:after {
 }
 #headerwrap h1 {
 	color: #fff;
-	font-family: xirod;
-	font-size: 100px;
+	font-family: timeburnerbold;
+	font-size: 115px;
 	text-align: center;
 	letter-spacing: 2px;
 	padding-bottom: 10px;
 }
 #headerwrap h2 {
 	color: #fff;
-	font-family: zekton;
-	font-size: 35px;
+	font-family: dolce;
+	font-size: 32wpx;
 	font-weight: 200;
 	text-align: center;
 	letter-spacing: 2px;
