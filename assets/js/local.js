@@ -2,12 +2,12 @@
 $(document).ready(function(){
 	for(field in fields){
 		if($("#"+field)) {
-			$('#'+field).text(fields[field]);
+			$('#'+field).html(fields[field]);
 		}
 	}
 	for(header in headers){
 		if($("."+header)) {
-			$('.'+header).text(headers[header]);
+			$('.'+header).html(headers[header]);
 		}
 	}
 })
