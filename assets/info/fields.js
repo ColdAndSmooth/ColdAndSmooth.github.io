@@ -37,7 +37,6 @@ fields = {
 	"Servings per container: five, Directions: Take one capsule per night before bed for one week 24 hours after strenuous event."+
 	"</span>",
 	sectionFiveText: "",
-	"</span>",
 
 	contactUsHeader: "Show your interest! Contact Us:",
 
