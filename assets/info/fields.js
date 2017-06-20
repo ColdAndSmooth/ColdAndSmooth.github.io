@@ -56,23 +56,3 @@ headers = {
 images = {
 	backgroundImage: ""
 }
-,
-	sectionThreeHeader: "LUCIDITY",
-	sectionFourHeader: "AFTERGLOW",
-	sectionFiveHeader: "Why, though?"
-
-},
-
-images = {
-	backgroundImage: ""
-}
-,
-	sectionThreeHeader: "LUCIDITY",
-	sectionFourHeader: "AFTERGLOW",
-	sectionFiveHeader: "Why, though?"
-
-},
-
-images = {
-	backgroundImage: ""
-}
