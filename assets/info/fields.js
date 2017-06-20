@@ -17,7 +17,7 @@ fields = {
 	"<span>",
 	
 	sectionThreeText: "<span style='text-align:left'><br>"+
-	"This supplement stack has been specially formulated to maximize your brains neurotoxic defence. We have developed a "+
+	"This supplement stack has been specially formulated to maximize your brains neurotoxic defence. We have developed a booster stack of vitamins that continue to neurotoxic defense and "+
 	"<li><b>Alpha Lipoic Acid (R-ALA):</b></li>"+
 	"<li><b>Acetyl-L-carnitine (ALCAR):</b></li> "+
 	"<li><b>Coenzyme (CoQ10):</b></li>  "+
