@@ -299,7 +299,7 @@ a:before, a:after {
 	color: #000;
 }
 #science {
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	background: url(../img/bg_blue.jpg) no-repeat center center fixed;
 	padding: 60px 0;
 	text-align: center;
 	background-size: cover;
@@ -336,7 +336,7 @@ a:before, a:after {
 	padding-right: 0px;
 }
 #interest {
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	background: url(../img/bg_blue.jpg) no-repeat center center fixed;
 	padding: 60px 0;
 	text-align: center;
 	background-size: cover;
