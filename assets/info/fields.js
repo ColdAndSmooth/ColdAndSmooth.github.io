@@ -13,7 +13,7 @@ fields = {
 	"<li><b>Acetyl-L-carnitine (ALCAR):</b></li> "+
 	"<li><b>Magnesium Glycinate:</b></li> Highly bioactive elemental Magnesium will enable your body to naturally protect itself from excitotoxicity, clearing the ion channels necessary for cascading electrical signals in the body's neural network. Magnesium Glycinate is also one of many chelated compounds that enables high bioavailabity and increased absorption rates. A small amount of people may experience an upset stomach with large servings of elemental Magnesium. To reduce this potential discomfort, take DAYBREAK in the morning before LUCIDITY to prepare the body for optimal function later. "+
 	"<li><b>Vitamin C:</b></li> A very common over the counter anti-oxidant found in many fruits is believed to boost the immmune system, and may also help to protect against neurotoxicity from depleted serotonin levels. Vitamin C also raises stomach acidity, which will help excrete many harmful substances through urination. "+
-	"<br>Directions: Mix one powder pack with 16+ oz of water and drink with breakfast during the festival."+
+	"<br><br>Directions: Mix one powder pack with 16+ oz of water and drink with breakfast during the festival."+
 	"</span>",
 	
 	sectionThreeText: "<span style='text-align:left'><br>"+
@@ -25,7 +25,7 @@ fields = {
 	"<li><b>Magnesium Glycinate:</b></li> Highly bioactive elemental Magnesium will enable your body to naturally protect itself from excitotoxicity, clearing the ion channels necessary for cascading electrical signals in the body's neural network. Magnesium Glycinate is also one of many chelated compounds that enables high bioavailabity and increased absorption rates. A small amount of people may experience an upset stomach with large servings of elemental Magnesium. To reduce this potential discomfort, take DAYBREAK in the morning before LUCIDITY to prepare the body for optimal function later. "+
 	"<li><b>Vitamin C:</b></li> A very common over the counter anti-oxidant found in many fruits is believed to boost the immmune system, and may also help to protect against neurotoxicity from depleted serotonin levels. Vitamin C also raises stomach acidity, which will help excrete many harmful substances through urination. "+
 	"<li><b>Vitamin B3 (Nicotinamide):</b></li>"+
-	"<br>Directions: Mix one powder pack with 16+ oz of water and drink during  per night before bed for one week 24 hours after strenuous event."+
+	"<br><br>Directions: Mix one powder pack with 16+ oz of water and drink during  per night before bed for one week 24 hours after strenuous event."+
 	"</span>",
 
 	sectionFourText: "<span style='text-align:left'><br>"+
@@ -47,6 +47,16 @@ headers = {
 
 	sectionOneHeader: "Company Info",
 	sectionTwoHeader: "DAYBREAK",
+	sectionThreeHeader: "LUCIDITY",
+	sectionFourHeader: "AFTERGLOW",
+	sectionFiveHeader: "Why, though?"
+
+},
+
+images = {
+	backgroundImage: ""
+}
+,
 	sectionThreeHeader: "LUCIDITY",
 	sectionFourHeader: "AFTERGLOW",
 	sectionFiveHeader: "Why, though?"
