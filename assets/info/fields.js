@@ -33,7 +33,6 @@ fields = {
 	"<li><b>5-HTP:</b></li> A direct precursor to serotonin (5-HT) that has the ability to pass through the blood brain barrier and help aid in restoring serotonin levels. When taken at night, it results in waking up refreshed and reducing hangovers. "+
 	"<li><b>EGCG:</b></li> Inhibit DOPA decarboxylase which prevents 5-HTP from being broken down in the stomach or periphery, ensuring your brain is getting the 5-HTP and converting it to serotonin. 5-HTP should not be taken without EGCG, excess 5-HT in the periphery can cause heart valve damage."+
 	"<li><b>Melatonin:</b></li> A very common over the counter sleeping aid that is naturally produced from serotonin, moments before going to sleep. This will help start the sleeping process in the restless nights after."+
-	"<li><b>Panax Gensing:</b></li> "+
 	"Servings per container: five, Directions: Take one capsule per night before bed for one week 24 hours after strenuous event."+
 	"</span>",
 	sectionFiveText: "",
@@ -43,6 +42,8 @@ fields = {
 	footerText: ""
 },
 
+	//"<li><b>Panax Gensing:</b></li> An adaptogenic herb whereby administartion results in stabilization of physiological processes and brings the body to a balance. If you are tired it will give you a boost and if you are wired it will calm you down and relax"+
+	
 headers = {
 
 	sectionOneHeader: "Company Info",
