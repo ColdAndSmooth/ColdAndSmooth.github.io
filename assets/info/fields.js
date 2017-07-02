@@ -46,11 +46,11 @@ fields = {
 	
 headers = {
 
-	sectionOneHeader: "Company Info",
+	sectionOneHeader: "COMPANY INFO",
 	sectionTwoHeader: "DAYBREAK",
 	sectionThreeHeader: "LUCIDITY",
 	sectionFourHeader: "AFTERGLOW",
-	sectionFiveHeader: "Why, though?"
+	sectionFiveHeader: "WHY, THOUGH?"
 
 },
 
